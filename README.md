@@ -1,16 +1,38 @@
-### Hi there 👋
+@@ -1,34 +1,35 @@
+## Hi there 👋
+# I AM Saksham Malik
+<hr>
+##  :octocat: I’m currently working on :
+### Web Development | Python  | Java
+<hr>
+##  :electron: I’m currently learning :
+### Nodejs | GUI-Python
+<hr>
+## 🤔 I’m looking to develop a :
+### Portfolio |  Minigames With Python
+<hr>
 
-<!--
-**SaKsHaMaLiK/SaKsHaMaLiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚	Try My Hand In :
 
-Here are some ideas to get you started:
+### C | C++ | JAVA | PYTHON | basic C#
+### HTML | JS | CSS | JQUERY |
+### ANGULAR | NODEJS | MySQL |
+### FLUTTER | ANDROID STUDIO |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+# 📫 Contact Me On:
+## :man_technologist: Contact Me On:
+
+* [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="4.5%" alt="Sourcerer"/>](https://sourcerer.io/SaKsHaMaLiK) | [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/saksham._.malik/) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/saksham-malik-a7b13318b/)
+[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="3.5%" alt="Sourcerer"/>](https://sourcerer.io/SaKsHaMaLiK)  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/saksham._.malik/)  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/saksham-malik-a7b13318b/)
+
+<hr>
+
+# TIME FOR STATS :
+## TIME FOR STATS :
+
+[![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=radical)]
+
+<hr>
+# THANKYOU
