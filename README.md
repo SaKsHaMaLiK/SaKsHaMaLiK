@@ -1,12 +1,15 @@
 ## Hi there 👋
 # I AM Saksham Malik
 <hr>
+
 ##  :octocat: I’m currently working on :
 ### Web Development | Python  | Java
 <hr>
+
 ##  :electron: I’m currently learning :
 ### Nodejs | GUI-Python
 <hr>
+
 ## 🤔 I’m looking to develop a :
 ### Portfolio |  Minigames With Python
 <hr>
@@ -34,4 +37,5 @@
 [![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=radical)]
 
 <hr>
+
 # THANKYOU
