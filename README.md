@@ -1,4 +1,4 @@
-## Hi there 👋
+## _Hi there_👋
 # I AM Saksham Malik
 <hr>
 
@@ -10,16 +10,16 @@
 ### Nodejs | GUI-Python
 <hr>
 
-## 🤔 I’m looking to develop a :
-### Portfolio |  Minigames Using Python
+## 🤔 I’m looking to _develop_ a :
+### __Portfolio |  Minigames Using Python__
 <hr>
 
 ## 📚	Try My Hand In :
 
-### C | C++ | JAVA | PYTHON | basic C#
-### HTML | JS | CSS | JQUERY |
-### ANGULAR | NODEJS | MySQL |
-### FLUTTER | ANDROID STUDIO |
+### '''C''' | '''C++''' | '''JAVA''' | '''PYTHON''' | '''basic C#'''
+### '''HTML''' | '''JS''' | '''CSS''' | '''JQUERY'''
+### '''ANGULAR''' | '''NODEJS''' | '''MySQL'''
+### '''FLUTTER''' | ANDROID STUDIO '''
 
 <hr>
 
@@ -35,4 +35,4 @@
 
 <hr>
 
-## __THANKYOU__  <img  src="https://visitor-badge.laobi.icu/badge?page_id=SaKsHaMaLiK.visitor-badge">
+## __THANKYOU__ 
