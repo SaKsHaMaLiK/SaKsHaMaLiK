@@ -1,4 +1,4 @@
-### _Hi there_👋
+### _Hi there_ 👋
 ## I am __Saksham Malik__
 <hr>
 
@@ -17,7 +17,7 @@
 ### 📚	Try My Hand In :
 
 #### ```C``` | ```C++``` | ```JAVA``` | ```PYTHON``` | ```basic C#```
-#### ```HTML''' | ```JS``` | ```CSS``` | ```JQUERY```
+#### ```HTML``` | ```JS``` | ```CSS``` | ```JQUERY```
 #### ```ANGULAR``` | ```NODEJS``` | ```MySQL```
 #### ```FLUTTER``` | ```ANDROID STUDIO```
 
