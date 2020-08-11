@@ -32,7 +32,7 @@
 
 + ### TIME FOR STATS :
 
-[![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=radical)]
+![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=radical)
 
 <hr>
 
