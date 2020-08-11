@@ -4,14 +4,17 @@
 
 ###  :jack_o_lantern: I’m currently working on :
 #### Web Development | Python  | Java
+
 <hr>
 
 ###  :electron: I’m currently learning :
 #### __Nodejs | GUI-Python__
+
 <hr>
 
 ### 🤔 I’m looking to _develop_ a :
 #### __Portfolio |  Minigames Using Python__
+
 <hr>
 
 ### 📚	Try My Hand In :
