@@ -1,19 +1,19 @@
-### _Hi there_ 👋
-## I am __Saksham Malik__
+### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_ 👋
+## I am __𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴__
 <hr>
 
 ###  :jack_o_lantern: I’m currently working on :
-#### Web Development | Python  | Java
+#### __𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 | 𝓟𝔂𝓽𝓱𝓸𝓷 | 𝓙𝓪𝓿𝓪
 
 <hr>
 
 ###  :electron: I’m currently learning :
-#### __Nodejs | GUI-Python__
+#### __𝓝𝓸𝓭𝓮𝓳𝓼 | 𝓖𝓤𝓘-𝓟𝔂𝓽𝓱𝓸𝓷__
 
 <hr>
 
 ### 🤔 I’m looking to _develop_ a :
-#### __Portfolio |  Minigames Using Python__
+#### _𝓒𝓢𝓢 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 |  𝓜𝓲𝓷𝓲𝓰𝓪𝓶𝓮𝓼 𝓦𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷__
 
 <hr>
 
