@@ -25,18 +25,18 @@
 #### ```FLUTTER``` | ```ANDROID STUDIO```
 
 <hr>
+### TIME FOR STATS :
+
+![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=dark)
+
+<hr>
 
 ### :man_technologist: Contact Me On:
 
 [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/SaKsHaMaLiK)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com/saksham._.malik/)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in/saksham-malik-a7b13318b/)
 :-----------------:|:--------------------:|:-------------:
     
-<hr>
-
-### TIME FOR STATS :
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=radical)
-
+   
 ### <hr>
 
 ## __THANKYOU__ 
