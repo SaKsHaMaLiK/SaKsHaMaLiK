@@ -36,15 +36,12 @@
 ### :man_technologist: Contact Me On:
 
 
-<a href="https://sourcerer.io/SaKsHaMaLiK/">	<a href="https://sourcerer.io/SaKsHaMaLiK/">
-  <img align="left" alt="Sparsh's Sourcerer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />	  <img align="left" alt="Sparsh's Sourcerer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
-</a>	</a>
-<a href="www.instagram.com/sakshammalik5/">	<a href="www.instagram.com/sakshammalik5/">
-  <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	  <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>	</a>
-<a href="https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/">	<a href="https://www.linkedin.com/in/saksham-malik-a7b13318b/">
-  <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	  <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- </a>
+<a href="https://sourcerer.io/SaKsHaMaLiK/">
+  <img align="left" alt="Sparsh's Sourcerer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" /></a>
+<a href="www.instagram.com/sakshammalik5/">
+  <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/saksham-malik-a7b13318b/">
+  <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 .
 ## <hr>
 
