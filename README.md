@@ -1,4 +1,4 @@
-### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_ 👋
+### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am __𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴__
 
 <hr>
@@ -35,9 +35,17 @@
 
 ### :man_technologist: Contact Me On:
 
-[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/SaKsHaMaLiK)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com/saksham._.malik/)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in/saksham-malik-a7b13318b/)
-:-----------------:|:--------------------:|:-------------:
-    
+
+<a href="https://sourcerer.io/SaKsHaMaLiK/">	<a href="https://sourcerer.io/SaKsHaMaLiK/">
+  <img align="left" alt="Sparsh's Sourcerer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />	  <img align="left" alt="Sparsh's Sourcerer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
+</a>	</a>
+<a href="www.instagram.com/sakshammalik5/">	<a href="www.instagram.com/sakshammalik5/">
+  <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	  <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>	</a>
+<a href="https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/">	<a href="https://www.linkedin.com/in/saksham-malik-a7b13318b/">
+  <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	  <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+.
 ## <hr>
 
 ## __THANKYOU__ 
