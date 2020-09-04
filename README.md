@@ -1,4 +1,4 @@
-### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am __𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴__
 
 <hr>
