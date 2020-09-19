@@ -1,8 +1,6 @@
 ### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_    &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am __𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴__ &nbsp;
 
-<hr>
-
 ###  :jack_o_lantern: I’m currently working on :
 #### __𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 | 𝓟𝔂𝓽𝓱𝓸𝓷 | 𝓙𝓪𝓿𝓪__
 
