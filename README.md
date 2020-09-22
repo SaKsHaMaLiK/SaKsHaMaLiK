@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary>:scroll: :mortar_borad:
+  <summary>:scroll: :mortar_board:
   </summary>
   <h4>:beginner: 3rd Year Student </h4>
   <h4>:beginner: CSE </h4>
