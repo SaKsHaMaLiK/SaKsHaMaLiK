@@ -11,7 +11,8 @@
   <h4>:clock1: Coder :clock8:</h4>
   <h4>:office: Chitkara University <h4>
 </details>
-  
+    
+---  
 
 ###  :electron: I’m currently learning :
 #### __𝓝𝓸𝓭𝓮𝓳𝓼 | 𝓖𝓤𝓘-𝓟𝔂𝓽𝓱𝓸𝓷__
