@@ -1,4 +1,4 @@
-### _𝓗𝓲 𝓣𝓱𝓮𝓻𝓮_    &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮    &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
 ## I am __𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴__ &nbsp;
 
 ###  :jack_o_lantern: I’m currently working on :
