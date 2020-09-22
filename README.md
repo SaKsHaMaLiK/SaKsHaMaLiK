@@ -1,10 +1,17 @@
-<h1> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮    &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
-<p> <h2>I am <b>𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴</b></h2></p>&nbsp;
+<h1> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
+<p> <h2>I am <b> 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </b></h2></p>&nbsp;
 
-###  :jack_o_lantern: I’m currently working on :
-#### __𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 | 𝓟𝔂𝓽𝓱𝓸𝓷 | 𝓙𝓪𝓿𝓪__
 
-<hr>
+<details>
+  <summary>:scroll: :mortar_borad:
+  </summary>
+  <h4>:beginner: 3rd Year Student </h4>
+  <h4>:beginner: CSE </h4>
+  <h4>:beginner: Python & JAVA </h4>
+  <h4>:clock1: Coder :clock8:</h4>
+  <h4>:office: Chitkara University <h4>
+<details>
+  
 
 ###  :electron: I’m currently learning :
 #### __𝓝𝓸𝓭𝓮𝓳𝓼 | 𝓖𝓤𝓘-𝓟𝔂𝓽𝓱𝓸𝓷__
