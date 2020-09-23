@@ -14,9 +14,15 @@
     
 ---  
 
-###  :electron: I’m currently learning :
-#### __𝓝𝓸𝓭𝓮𝓳𝓼 | 𝓖𝓤𝓘-𝓟𝔂𝓽𝓱𝓸𝓷__
-
+###  :electron: I’m Currently _working_ on :
+<details><summary><span>
+  <strong>:file_folder:  Node JS </strong></span> </summary>
+  :computer:<strong>:file_folder:  GUI Python</strong><br>
+</details>
+<details><summary><span>
+  <strong>:file_folder:  Machine Learning </strong></span> </summary>
+  :computer:<strong>:file_folder:  Data Engineering </strong><br>
+</details>
 <hr>
 
 ### 🤔 I’m looking to _develop_ a :
