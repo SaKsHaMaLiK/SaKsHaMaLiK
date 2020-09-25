@@ -2,8 +2,7 @@
 <p><h1><b>I am 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </b></h1></p>
 
 <details>
-  <summary>:scroll: :mortar_board:
-  </summary>
+  <summary>:scroll: :mortar_board:</summary>
   <h4>:beginner: 3rd Year Student </h4>
   <h4>:beginner: CSE </h4>
   <h4>:beginner: Python & JAVA </h4>
@@ -20,12 +19,12 @@
 </details>
 <details><summary><span>
   <strong>:file_folder:  Machine Learning </strong></span> </summary>
-  :computer:<strong>:file_folder:  Data Engineering </strong><br>
+  :computer:<strong>:file_folder:  Data Structure </strong><br>
 </details>
 <hr>
 
 ### 🤔 I’m looking to _develop_ a :
-#### _𝓒𝓢𝓢 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 |  𝓜𝓲𝓷𝓲𝓰𝓪𝓶𝓮𝓼 𝓦𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷__
+#### <h4>__𝓒𝓢𝓢 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 |  𝓜𝓲𝓷𝓲𝓰𝓪𝓶𝓮𝓼 𝓦𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷__</h4>
 
 <hr>
 
