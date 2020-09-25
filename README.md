@@ -1,5 +1,5 @@
 <h1><b>𝓗𝓲 𝓣𝓱𝓮𝓻𝓮 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
-<p> <h2>I am <b><h1> 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </h1></b></h2></p>
+<p><h2><b>I am <h3> 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </h3></b></h2></p>
 
 <details>
   <summary>:scroll: :mortar_board:
@@ -35,7 +35,7 @@
 #### ```HTML``` | ```JS``` | ```CSS``` | ```JQUERY```
 #### ```ANGULAR``` | ```NODEJS``` | ```MySQL```
 #### ```FLUTTER``` | ```ANDROID STUDIO```
-
+3
 <hr>
 
 ### TIME FOR STATS :
