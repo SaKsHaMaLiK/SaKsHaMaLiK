@@ -34,7 +34,7 @@
 #### ```HTML``` | ```JS``` | ```CSS``` | ```JQUERY```
 #### ```ANGULAR``` | ```NODEJS``` | ```MySQL```
 #### ```FLUTTER``` | ```ANDROID STUDIO```
-3
+
 <hr>
 
 ### TIME FOR STATS :
