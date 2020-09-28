@@ -1,6 +1,7 @@
 <h1><b>𝓗𝓲 𝓣𝓱𝓮𝓻𝓮 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
 <p><h1><b>I am 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </b></h1></p>
 
+
 <details>
   <summary>:scroll: :mortar_board:</summary>
   <h4>:beginner: 3rd Year Student </h4>
