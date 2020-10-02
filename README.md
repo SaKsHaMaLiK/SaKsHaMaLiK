@@ -37,7 +37,7 @@
 
 <hr>
 
-### TIME FOR STATS :
+### STATISTICS :
 
 ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=dark)
 
