@@ -12,7 +12,7 @@
     
 ---  
 
-###  :electron: I’m Currently _working_ on :
+###  :electron: I’m Learning :
 <details><summary><span>
   <strong>:file_folder:  Node JS </strong></span> </summary>
   :computer:<strong>:file_folder:  GUI Python</strong><br>
