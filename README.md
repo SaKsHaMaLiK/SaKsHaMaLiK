@@ -24,13 +24,13 @@
 <hr>
 
 ### 🤔 I’m looking to _develop_ a :
-#### <h4>__𝓒𝓢𝓢 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 |  𝓜𝓲𝓷𝓲𝓰𝓪𝓶𝓮𝓼 𝓦𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷__</h4>
+#### <h4>__Flutter Applications__ |  __Java Programming__</h4>
 
 <hr>
 
 ### 📚	Try My Hand In :
 
-#### ```C``` | ```C++``` | ```JAVA``` | ```PYTHON``` | ```basic C#```
+#### ```C``` | ```JAVA``` | ```PYTHON``` | ```basic C#```
 #### ```HTML``` | ```JS``` | ```CSS``` | ```JQUERY```
 #### ```ANGULAR``` | ```NODEJS``` | ```MySQL```
 #### ```FLUTTER``` | ```ANDROID STUDIO```
