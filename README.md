@@ -13,6 +13,7 @@
 ---  
 
 ###  :electron: I’m Learning :
+
 <details><summary><span>
   <strong>:file_folder:  Node JS </strong></span> </summary>
   :computer:<strong>:file_folder:  GUI Python</strong><br>
@@ -24,6 +25,7 @@
 <hr>
 
 ### 💼 I’m looking to _develop_ a :
+
 #### <h4> _Flutter Applications_ |  _Java Programs_</h4>
 
 <hr>
