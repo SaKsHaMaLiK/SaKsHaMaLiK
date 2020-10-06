@@ -23,7 +23,7 @@
 </details>
 <hr>
 
-### 🤔 I’m looking to _develop_ a :
+### 💼 I’m looking to _develop_ a :
 #### <h4>__Flutter Applications__ |  __Java Programming__</h4>
 
 <hr>
