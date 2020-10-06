@@ -24,7 +24,7 @@
 <hr>
 
 ### 💼 I’m looking to _develop_ a :
-#### <h4>__Flutter Applications__ |  __Java Programming__</h4>
+#### <h4> _Flutter Applications_ |  _Java Programs_</h4>
 
 <hr>
 
