@@ -17,8 +17,8 @@
 ###  :electron: I’m Learning :
 
 <details><summary><span>
-  <strong>:file_folder:  Node JS </strong></span> </summary>
-  :computer:<strong>:file_folder:  GUI Python</strong><br>
+  <strong>:file_folder:  Programming </strong></span> </summary>
+  :computer:<strong>:file_folder:  Python </strong><br>
 </details>
 <details><summary><span>
   <strong>:file_folder:  Machine Learning </strong></span> </summary>
