@@ -43,7 +43,7 @@
 
 ### 📊 STATISTICS :
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=dark)
+![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=SaKsHaMaLiK&show_icons=true&theme=grey)
 
 <hr>
 
