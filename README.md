@@ -2,7 +2,6 @@
 <p><h1><b>I am 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴 </b></h1></p>
 
 ---
-
 <details>
   <summary>:scroll: :mortar_board:</summary>
   <h4>:beginner: 3rd Year Student </h4>
