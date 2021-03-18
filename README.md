@@ -58,7 +58,6 @@
   <img align="left" alt="Sparsh's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/saksham-malik-a7b13318b/">
   <img align="left" alt="Sparsh's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  .
 
 ---
 ### _THANKYOU_
