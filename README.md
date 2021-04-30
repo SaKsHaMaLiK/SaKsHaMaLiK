@@ -2,7 +2,6 @@
 <p>
 <h1><b>I'm 𝓢𝓪𝓴𝓼𝓱𝓪𝓶 𝓜𝓪𝓵𝓲𝓴</b></p>
 
-
 ---
 
 <details>
@@ -17,7 +16,7 @@
 ---  
 
 ###  :electron: I’m Learning :
-
+<b>
 <details><summary><span>
   <strong>:file_folder:  Programming </strong></span> </summary>
   :computer:<strong>:file_folder:  Python </strong><br>
@@ -25,7 +24,7 @@
 <details><summary><span>
   <strong>:file_folder:  Machine Learning </strong></span> </summary>
   :computer:<strong>:file_folder:  Data Structure </strong><br>
-</details>
+</details></b>
 <hr>
 
 ### 💼 I’m looking to _develop_ a :
