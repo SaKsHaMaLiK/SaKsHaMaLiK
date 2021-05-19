@@ -7,7 +7,7 @@
 <details>
   <summary>:scroll: :mortar_board:</summary>
   <h4>:beginner: 3rd Year Student </h4>
-  <h4>:beginner: CSE </h4>
+  <h5>:beginner: CSE </h5>
   <h4>:beginner: Python & JAVA </h4>
   <h4>:clock11: Coder :clock7:</h4>
   <h4>:office: Chitkara University <h4>
